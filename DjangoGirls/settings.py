@@ -25,7 +25,7 @@ SECRET_KEY = 'zmvpex413@bpk6epl5zx!(__(-nnm+twc28x1juk00+6$fhovu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','semenderduga.pythonanywhere.com']
 
 
 # Application definition
